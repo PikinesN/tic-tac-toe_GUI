@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Крестики нолики</string>
+    <string name="o">O</string>
+    <string name="x">X</string>
+</resources>
